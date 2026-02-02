@@ -53,7 +53,7 @@ const App: React.FC = () => {
       <div className="relative z-10 flex flex-col items-center justify-center gap-6 md:gap-8 px-4 text-center w-full max-w-5xl pt-20 sm:pt-10 md:pt-16 lg:pt-18 -translate-y-4 sm:-translate-y-6 md:-translate-y-8">
         {/* Заголовок с отступом сверху */}
         <h1 className="gold-text font-['Great_Vibes'] text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[1.2] sm:leading-[1.25] md:leading-[1.3] drop-shadow-[0_8px_16px_rgba(0,0,0,0.6)] px-2 md:px-4 pt-2 sm:pt-4 mb-8 sm:mb-4 md:mb-8 lg:mb-12">
-          С днем святого Валентина,<br className="sm:hidden" /> , сладкая
+          С днем святого Валентина,<br className="sm:hidden" /> сладкая
         </h1>
 
         {/* Сердце */}
